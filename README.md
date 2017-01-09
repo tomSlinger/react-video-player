@@ -4,6 +4,7 @@ Search & Play YouTube videos.
 
 Very simple design using Bootstrap and developed in React.
 
-###Getting Started###
+## How to Run
 
-npm start
+1. `npm install`
+2. `npm start`
